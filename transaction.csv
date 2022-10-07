@@ -1,0 +1,9 @@
+Ma giao dich [Required],Ngay giao dich (d/m/Y) [Required],Don gia [Required],So luong [Required],loai(18k,24k,9999,USD,EUR,AUD) [Required], mua(0,1)[Required]
+ma_gd_1,15/10/2021,5,1,24k,0
+ma_gd_2,15/10/2021,7,5,18k,1
+ma_gd_3,15/10/2021,2,3,EUR,0
+ma_gd_4,15/10/2021,3,2,AUD,1
+ma_gd_5,15/10/2021,7,6,USD,0
+ma_gd_6,15/10/2021,4,7,9999,1
+ma_gd_7,15/10/2021,23,8,AUD,1
+ma_gd_8,15/10/2021,15,9,9999,0
